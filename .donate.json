@@ -16,5 +16,20 @@
       "platform": "Bitcoin",
       "address": "3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC"
     }
+  ],
+  "tier_currency": "USD",
+  "tiers": [
+    {
+      "threshold": 5,
+      "name": "Standard Donor",
+      "frequency": "any",
+      "description": "Our eternal gratitude 🙌"
+    },
+    {
+      "threshold": 10,
+      "name": "Platinum Sponsor",
+      "frequency": "monthly",
+      "description": "Your name credited at the top of the [HelloDonateJson README](https://github.com/ThanksApp/HelloDonateJson/blob/master/README.md)."
+    }
   ]
 }
