@@ -1,0 +1,20 @@
+{
+  "recipients": [
+    {
+      "name": "Dan Pastusek",
+      "weight": 5,
+      "platforms": [
+        {
+          "platform": "PayPal",
+          "address": "https://paypal.me/pastudan"
+        }
+      ]
+    },
+    {
+      "name": "Seandon Mooy",
+      "weight": 5,
+      "platform": "Bitcoin",
+      "address": "3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC"
+    }
+  ]
+}
