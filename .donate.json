@@ -17,7 +17,7 @@
       "address": "3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC"
     }
   ],
-  "tier_currency": "USD",
+  "tierCurrency": "USD",
   "tiers": [
     {
       "threshold": 5,
