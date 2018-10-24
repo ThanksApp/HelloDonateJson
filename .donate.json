@@ -2,7 +2,7 @@
   "recipients": [
     {
       "name": "Dan Pastusek",
-      "weight": 3,
+      "weight": 5,
       "platforms": [
         {
           "platform": "PayPal",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Seandon Mooy",
-      "weight": 7,
+      "weight": 5,
       "platform": "Bitcoin",
       "address": "3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC"
     }
